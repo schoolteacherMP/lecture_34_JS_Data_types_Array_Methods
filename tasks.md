@@ -49,7 +49,12 @@ map(func) – создаёт новый массив из результатов
 ![image](https://user-images.githubusercontent.com/113675674/215062140-fc642ce3-edbe-45b9-9fa3-faab7a7b0bd4.png)  
 
 ## Задача 9.   
-### 
+### Convert a string to an array  
+Напишите функцию _stringToArray_, которая принимает строку, разбивает строку и преобразует ее в массив слов.  
+![image](https://user-images.githubusercontent.com/113675674/215062685-9702f569-2046-4a52-bdab-07868c7c2648.png)  
 
 ## Задача 10.   
-### 
+### Сортируем массив  
+ Отсортировать массив имен студентов в алфавитном порядке.  students = ["John", "Mike", "Sara", "Amy", "Adam"];  
+ ![image](https://user-images.githubusercontent.com/113675674/215063733-512476ef-1c06-47d7-acbf-2dfd5ada5027.png)  
+ 
