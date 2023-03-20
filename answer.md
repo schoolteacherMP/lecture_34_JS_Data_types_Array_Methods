@@ -63,3 +63,17 @@ lastIndexOf() метод ищет последнее вхождение указ
 ![image](https://user-images.githubusercontent.com/113675674/215067906-13ba131e-f9d8-40d3-8d2b-0fa589a3e3bf.png)  
 В этом примере мы используем метод reduce, чтобы проитерироваться по массиву numbers и накапливать сумму в переменной accumulator. В качестве начального значения для accumulator мы указываем 0. На каждой итерации мы добавляем значение текущего элемента (currentValue) к накопленной сумме (accumulator) и возвращаем результат. После завершения итераций, мы получаем сумму всех элементов массива в переменной sum.  
 
+## Задача 12  
+### сортируем массив  
+![image](https://user-images.githubusercontent.com/113675674/226307148-6bbad155-81dd-4e4c-a3f0-f8cd13403da9.png)  
+
+
+## Задача 13  
+### Средний балл  
+![image](https://user-images.githubusercontent.com/113675674/226307354-23b2030a-fa80-4c4d-9bd5-98622a1cd285.png)  
+
+## Задача 14    
+### Зоопарк    
+![image](https://user-images.githubusercontent.com/113675674/226307867-fb775bad-614d-4de5-a5ca-5d09658d86ae.png)
+
+
