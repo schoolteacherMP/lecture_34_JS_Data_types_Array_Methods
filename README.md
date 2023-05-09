@@ -1,5 +1,6 @@
 # lecture_34_JS_Data_types_Array_Methods  
 
+
 #  [Задачи ](https://github.com/schoolteacherMP/lecture_34_JS_Data_types_Array_Methods/blob/main/tasks.md) 
 
 #  [ Справочник MDN ](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array) 
